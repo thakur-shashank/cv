@@ -2,6 +2,20 @@ body {
     background-color: #FAF7F0;
 }
 
+h1 {
+    color: #98A8F8;
+}
+
+h2 {
+    color: #98A8F8;
+}
+
+h3 {
+    color: #98A8F8;
+}
+
+
+
 hr {
     border-style: none;
     border-color: LightGrey;
